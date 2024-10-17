@@ -3,7 +3,7 @@
 # 💫 About Me:
 🤖 I am currently working on Machine Learning<br>💭 Ask me about new things in Machine Learning<br> ⚡️ 
 📙 Check out my resume [here](https://anumit-resume-i.tiiny.site). <br />
-😀 Fun Fact
+😀 Fun Fact : I listen to music🎵📻 when coding.
 
 
 ## 🌐 Socials:
