@@ -1,7 +1,9 @@
 # Anumit Jooloor
 
 # 💫 About Me:
-🤖 I am currently working on Machine Learning<br>💭 Ask me about new things in Machine Learning<br> ⚡️ Fun Fact
+🤖 I am currently working on Machine Learning<br>💭 Ask me about new things in Machine Learning<br> ⚡️ 
+📙 Check out my resume here.
+Fun Facts 
 
 
 ## 🌐 Socials:
