@@ -12,17 +12,9 @@ Fun Facts
 -->
 
 [![Linkedin](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/anumit-jooloor)
-
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15840143)
 
-[!Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20100262/)
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/Insta)
-
-[![Stack Overflow]
-(https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)] 
-(https://stackoverflow.com/users/15840143)
 
 
 # 💻 Tech Stack:
